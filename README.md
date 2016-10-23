@@ -1,4 +1,5 @@
 # client/server application in JAVA
+This source code is a simple client / server application based on sockets communication in Java.
 
 The server allows for different operations based on the number of the random draw.
 It can accommodate four types of queries:
